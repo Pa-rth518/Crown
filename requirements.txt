@@ -1,0 +1,8 @@
+# Hermes Agent (OpenRouter-compatible loop); install from upstream repo
+hermes-agent @ git+https://github.com/NousResearch/hermes-agent.git
+
+httpx>=0.27,<1
+pydantic>=2.7,<3
+pydantic-settings>=2.2,<3
+python-dotenv>=1.0,<2
+apify-client>=1.8,<2

@@ -1,0 +1,169 @@
+{
+  "predictions": [
+    {
+      "cycle_id": "76065934-0799-481c-89ae-bf90c2a597bf",
+      "symbol": "BTCUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.8143548823997133,
+      "rationale": "Last 1000 candles considered; 5-bar window: 76381.19 \u2192 75780.92 (not uptrend on 5m).",
+      "reference_close": 75780.92,
+      "created_at": "2026-04-21T12:50:00.988309+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": true,
+      "actual": "UP",
+      "correct": false,
+      "settled_at": "2026-04-21T12:54:45.939703+00:00",
+      "outcome_close": 75928.35
+    },
+    {
+      "cycle_id": "76065934-0799-481c-89ae-bf90c2a597bf",
+      "symbol": "ETHUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.8314926660914588,
+      "rationale": "Last 1000 candles considered; 5-bar window: 2318 \u2192 2298.79 (not uptrend on 5m).",
+      "reference_close": 2298.79,
+      "created_at": "2026-04-21T12:50:00.988309+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": true,
+      "actual": "UP",
+      "correct": false,
+      "settled_at": "2026-04-21T12:54:45.939734+00:00",
+      "outcome_close": 2306.7
+    },
+    {
+      "cycle_id": "f2333df9-89b4-42e2-8f42-35b20b13255e",
+      "symbol": "BTCUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.8020155281938641,
+      "rationale": "Last 1000 candles considered; 5-bar window: 76506 \u2192 75928.35 (not uptrend on 5m).",
+      "reference_close": 75928.35,
+      "created_at": "2026-04-21T12:54:45.940683+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": true,
+      "actual": "UP",
+      "correct": false,
+      "settled_at": "2026-04-21T12:55:43.602599+00:00",
+      "outcome_close": 76000.0
+    },
+    {
+      "cycle_id": "f2333df9-89b4-42e2-8f42-35b20b13255e",
+      "symbol": "ETHUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.7353093283340891,
+      "rationale": "Last 1000 candles considered; 5-bar window: 2320.35 \u2192 2306.7 (not uptrend on 5m).",
+      "reference_close": 2306.7,
+      "created_at": "2026-04-21T12:54:45.940683+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": true,
+      "actual": "UP",
+      "correct": false,
+      "settled_at": "2026-04-21T12:55:43.602656+00:00",
+      "outcome_close": 2308.71
+    },
+    {
+      "cycle_id": "8ae8d0cc-414d-4f5e-b55b-8a37e3216844",
+      "symbol": "BTCUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.5676695373721261,
+      "rationale": "Last 1000 candles considered; 5-bar window: 76128.79 \u2192 76000 (not uptrend on 5m).",
+      "reference_close": 76000.0,
+      "created_at": "2026-04-21T12:55:43.603049+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": true,
+      "actual": "DOWN",
+      "correct": true,
+      "settled_at": "2026-04-21T12:56:44.955146+00:00",
+      "outcome_close": 75976.0
+    },
+    {
+      "cycle_id": "8ae8d0cc-414d-4f5e-b55b-8a37e3216844",
+      "symbol": "ETHUSDT",
+      "predicted": "UP",
+      "confidence": 0.5260054351359434,
+      "rationale": "Last 1000 candles considered; 5-bar window: 2307.21 \u2192 2308.71 (uptrend on 5m).",
+      "reference_close": 2308.71,
+      "created_at": "2026-04-21T12:55:43.603049+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": true,
+      "actual": "DOWN",
+      "correct": false,
+      "settled_at": "2026-04-21T12:56:44.955165+00:00",
+      "outcome_close": 2306.78
+    },
+    {
+      "cycle_id": "da7c45f8-e344-4b78-a8f4-6152a4d703bb",
+      "symbol": "BTCUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.5802797469919034,
+      "rationale": "Last 1000 candles considered; 5-bar window: 76128.79 \u2192 75976 (not uptrend on 5m).",
+      "reference_close": 75976.0,
+      "created_at": "2026-04-21T12:56:44.955258+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": true,
+      "actual": "UP",
+      "correct": false,
+      "settled_at": "2026-04-25T07:28:48.590793+00:00",
+      "outcome_close": 77524.73
+    },
+    {
+      "cycle_id": "da7c45f8-e344-4b78-a8f4-6152a4d703bb",
+      "symbol": "ETHUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.5074548914056343,
+      "rationale": "Last 1000 candles considered; 5-bar window: 2307.21 \u2192 2306.78 (not uptrend on 5m).",
+      "reference_close": 2306.78,
+      "created_at": "2026-04-21T12:56:44.955258+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": true,
+      "actual": "UP",
+      "correct": false,
+      "settled_at": "2026-04-25T07:28:48.590938+00:00",
+      "outcome_close": 2315.29
+    },
+    {
+      "cycle_id": "7d669520-0881-4b88-8660-a3cbca529fd3",
+      "symbol": "BTCUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.5035116213509263,
+      "rationale": "Kronos fallback signal for BTCUSDT: 5-bar mean vs previous 5-bar mean (77514.1 -> 77500.4).",
+      "reference_close": 77524.73,
+      "created_at": "2026-04-25T07:28:48.595263+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": false,
+      "actual": null,
+      "correct": null,
+      "settled_at": null
+    },
+    {
+      "cycle_id": "7d669520-0881-4b88-8660-a3cbca529fd3",
+      "symbol": "ETHUSDT",
+      "predicted": "DOWN",
+      "confidence": 0.5061834587297301,
+      "rationale": "Kronos fallback signal for ETHUSDT: 5-bar mean vs previous 5-bar mean (2315.86 -> 2315.14).",
+      "reference_close": 2315.29,
+      "created_at": "2026-04-25T07:28:48.595263+00:00",
+      "notes": "Settled when a later run shows a moved close vs reference_close.",
+      "settled": false,
+      "actual": null,
+      "correct": null,
+      "settled_at": null
+    }
+  ],
+  "summary": {
+    "settled_total": 8,
+    "settled_correct": 1,
+    "accuracy": 0.125,
+    "by_symbol": {
+      "BTCUSDT": {
+        "settled_total": 4,
+        "settled_correct": 1,
+        "accuracy": 0.25
+      },
+      "ETHUSDT": {
+        "settled_total": 4,
+        "settled_correct": 0,
+        "accuracy": 0.0
+      }
+    }
+  }
+}
