@@ -82,6 +82,8 @@ crown/
 - Tracks rolling global and per-symbol accuracy
 
 ---
+##Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/82a1bd72-d357-4c60-8ec6-16d89209c234" />
 
 ## Requirements
 
